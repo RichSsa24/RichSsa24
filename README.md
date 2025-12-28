@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Cybersecurity+Engineer;Network+Security+Analyst;CCNA+Certified+Professional" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Cybersecurity+Engineer;Network+Security+Analyst;Startup+Co-Founder" alt="Typing SVG" />
   </a>
 </p>
 
@@ -90,6 +90,18 @@ Cybersecurity Engineering student at Universidad Fidélitas with an active **CCN
 ---
 
 ## 🚀 Featured Projects
+
+### 🏋️ FitHorizon — Startup Co-Founder
+
+**AI-powered fitness application revolutionizing personalized workout experiences**
+
+- Co-founding a startup building intelligent fitness solutions with artificial intelligence
+- Developing personalized training algorithms that adapt to individual user progress and goals
+- Building scalable infrastructure with security-first architecture principles
+
+`Startup` `AI/ML` `Fitness Tech` `In Development`
+
+---
 
 ### 🛡️ Enterprise Network Security Lab
 
