@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Cybersecurity+Engineer;Network+Security+Analyst;Startup+Co-Founder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=Cybersecurity+Engineer;Network+Security+Analyst;Startup+Founder+%26+CEO" alt="Typing SVG" />
   </a>
 </p>
-
 
 <h1 align="center">Ricardo Solís</h1>
 
@@ -22,7 +21,7 @@
 
 ## 👤 About Me
 
-Cybersecurity Engineering student at Universidad Fidélitas with an active **CCNA certification** and hands-on experience building enterprise-grade security lab environments. My technical focus spans network defense architecture, Linux system hardening, and security automation—demonstrated through projects achieving **95% attack detection rates** and **70% reduction in administrative overhead**. I combine infrastructure security expertise with customer-facing communication skills developed through high-volume technical support operations. Currently developing SOC-oriented monitoring tools while expanding my threat detection capabilities.
+Cybersecurity Engineering student at Universidad Fidélitas with an active **CCNA certification** and hands-on experience building enterprise-grade security lab environments. As **Founder & CEO of FitHorizon**, I'm building AI-powered fitness solutions while pursuing my technical focus in network defense architecture, Linux system hardening, and security automation—demonstrated through projects achieving **95% attack detection rates**. I combine infrastructure security expertise with customer-facing communication skills developed through high-volume technical support operations.
 
 ---
 
@@ -92,13 +91,13 @@ Cybersecurity Engineering student at Universidad Fidélitas with an active **CCN
 
 ## 🚀 Featured Projects
 
-### 🏋️ FitHorizon — Startup Co-Founder
+### 🏋️ FitHorizon — Founder & CEO
 
 **AI-powered fitness application revolutionizing personalized workout experiences**
 
-- Co-founding a startup building intelligent fitness solutions with artificial intelligence
+- Building intelligent fitness solutions powered by artificial intelligence
 - Developing personalized training algorithms that adapt to individual user progress and goals
-- Building scalable infrastructure with security-first architecture principles
+- Architecting scalable infrastructure with security-first principles
 
 `Startup` `AI/ML` `Fitness Tech` `In Development`
 
@@ -114,18 +113,6 @@ Cybersecurity Engineering student at Universidad Fidélitas with an active **CCN
 - Conducted vulnerability assessments via Nmap/Nessus with **CVSS-scored** remediation documentation
 
 `Cisco IOS` `GNS3` `VMware` `pfSense` `Snort` `Nessus` `Wireshark`
-
----
-
-### 🐧 Linux Security Hardening Lab
-
-**System administration automation reducing manual tasks by 70%**
-
-- Administered RHEL and Debian-based systems: user management, permissions, sudo policies, and RBAC implementation
-- Developed Bash automation scripts for log analysis, security auditing, and system monitoring
-- Implemented hardening measures: SSH key authentication, iptables rules, service minimization, fail2ban, and centralized logging with rsyslog
-
-`RHEL` `Ubuntu` `Bash` `SSH` `iptables` `systemd` `rsyslog` `fail2ban`
 
 ---
 
