@@ -4,6 +4,7 @@
   </a>
 </p>
 
+
 <h1 align="center">Ricardo Solís</h1>
 
 <p align="center"><b>Understanding systems to secure them — one vulnerability at a time</b></p>
