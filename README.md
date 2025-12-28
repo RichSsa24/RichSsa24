@@ -1,17 +1,23 @@
-<![CDATA[<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Cybersecurity+Engineer;Network+Security+Analyst;CCNA+Certified+Professional" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Cybersecurity+Engineer;Network+Security+Analyst;CCNA+Certified+Professional)](https://git.io/typing-svg)
+<h1 align="center">Ricardo Solís</h1>
 
-# Ricardo Solís
+<p align="center"><b>Understanding systems to secure them — one vulnerability at a time</b></p>
 
-**Understanding systems to secure them — one vulnerability at a time**
-
-![Profile Views](https://komarev.com/ghpvc/?username=RichSsa24&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/RichSsa24?style=for-the-badge&color=00d9ff&labelColor=1a1b27)](https://github.com/RichSsa24)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RichSsa24&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/RichSsa24">
+    <img src="https://img.shields.io/github/followers/RichSsa24?style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="GitHub followers" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
 
-</div>
+---
 
 ## 👤 About Me
 
@@ -23,51 +29,63 @@ Cybersecurity Engineering student at Universidad Fidélitas with an active **CCN
 
 ### 🔐 Security Tools
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4B275F?style=for-the-badge&logo=nmap&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort_IDS/IPS-E34F26?style=for-the-badge&logo=snort&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-4B275F?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
+  <img src="https://img.shields.io/badge/Snort_IDS/IPS-E34F26?style=for-the-badge&logo=snort&logoColor=white" alt="Snort" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+</p>
 
 ### 🌐 Networking
 
-![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge&logo=internetexplorer&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-0052CC?style=for-the-badge&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs-005571?style=for-the-badge&logoColor=white)
-![ACLs](https://img.shields.io/badge/ACLs-003B57?style=for-the-badge&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-217346?style=for-the-badge&logo=openvpn&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-2C8EBB?style=for-the-badge&logo=gns3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge&logoColor=white" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/OSPF-0052CC?style=for-the-badge&logoColor=white" alt="OSPF" />
+  <img src="https://img.shields.io/badge/VLANs-005571?style=for-the-badge&logoColor=white" alt="VLANs" />
+  <img src="https://img.shields.io/badge/ACLs-003B57?style=for-the-badge&logoColor=white" alt="ACLs" />
+  <img src="https://img.shields.io/badge/VPN-217346?style=for-the-badge&logo=openvpn&logoColor=white" alt="VPN" />
+  <img src="https://img.shields.io/badge/GNS3-2C8EBB?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3" />
+</p>
 
 ### 💻 Operating Systems
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0052CC?style=for-the-badge&logo=microsoft&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHEL" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Active_Directory-0052CC?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+</p>
 
 ### ⚡ Scripting & Automation
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
 
 ### 📋 Security Frameworks
 
-![NIST](https://img.shields.io/badge/NIST_CSF-6A1B9A?style=for-the-badge&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-7B1FA2?style=for-the-badge&logo=owasp&logoColor=white)
-![CIS Controls](https://img.shields.io/badge/CIS_Controls-8E24AA?style=for-the-badge&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-9C27B0?style=for-the-badge&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/NIST_CSF-6A1B9A?style=for-the-badge&logoColor=white" alt="NIST" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-7B1FA2?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/CIS_Controls-8E24AA?style=for-the-badge&logoColor=white" alt="CIS Controls" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-9C27B0?style=for-the-badge&logoColor=white" alt="MITRE ATT&CK" />
+</p>
 
 ### 🖥️ Virtualization
 
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+</p>
 
 ---
 
@@ -123,51 +141,51 @@ Cybersecurity Engineering student at Universidad Fidélitas with an active **CCN
 
 ## 📜 Certifications
 
-<div align="center">
+<p align="center">
+  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html">
+    <img src="https://img.shields.io/badge/CISCO-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1b27" alt="CCNA" />
+  </a>
+</p>
 
-[![CCNA](https://img.shields.io/badge/CISCO-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1b27)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
-
-**Cisco Certified Network Associate** | Issued 2025 | Status: ACTIVE
-
-</div>
+<p align="center"><b>Cisco Certified Network Associate</b> | Issued 2025 | Status: ACTIVE</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RichSsa24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichSsa24&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" height="170"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RichSsa24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichSsa24&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RichSsa24&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichSsa24&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 🌐 Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricardo-solis-arias-3a382628a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ricardo02solis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/RichSsa24">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-solis-arias-3a382628a/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo02solis@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RichSsa24)
-
-Open to security discussions, collaborative projects, and professional opportunities.
-
-</div>
+<p align="center">Open to security discussions, collaborative projects, and professional opportunities.</p>
 
 ---
 
-<div align="center">
-
-**💡 Fun fact:** I intentionally break systems to understand how they work—then rebuild them better.
+<p align="center"><b>💡 Fun fact:</b> I intentionally break systems to understand how they work—then rebuild them better.</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RichSsa24.RichSsa24&left_color=1a1b27&right_color=00d9ff)
-
-</div>
-]]>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RichSsa24.RichSsa24&left_color=1a1b27&right_color=00d9ff" alt="Visitor Badge" />
+</p>
