@@ -120,6 +120,14 @@ When I'm not staring at logs, you'll find me:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichSsa24&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" width="38%" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RichSsa24/RichSsa24/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RichSsa24/RichSsa24/output/snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/RichSsa24/RichSsa24/output/snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
 <br>
 
 ### say hi
