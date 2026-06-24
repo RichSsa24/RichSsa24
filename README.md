@@ -106,9 +106,7 @@ Where my curiosity is currently living. Hands-on experiments with QAOA and QUBO/
 When I'm not staring at logs, you'll find me:
 
 - Under a barbell — competitive **powerlifter**, chasing heavier numbers, no days off
-- Out on my **Yamaha R3**
-- Running **Sombra Hats**, a gothic streetwear cap brand I co-founded
-- Whisky, *Suits* reruns, and late-night gaming with the crew
+- Coding a new tool
 
 <br>
 
@@ -130,7 +128,7 @@ When I'm not staring at logs, you'll find me:
 
 <br>
 
-### say hi
+### Say hi
 
 <p>
   <a href="https://www.linkedin.com/in/ricardo-solis-arias-3a382628a/">
