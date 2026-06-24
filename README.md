@@ -4,6 +4,14 @@
 
 <p align="center"><i>Break it. Understand it. Rebuild it better.</i></p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-San_José,_CR-22d3ee?style=flat-square&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_SOC_roles-22d3ee?style=flat-square&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity_•_Quantum-22d3ee?style=flat-square&labelColor=0d1117" />
+</p>
+
 <br>
 
 ### Focus
@@ -98,7 +106,8 @@ Personal exploration into quantum computing — hands-on experiments with QAOA a
 ### Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RichSsa24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RichSsa24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" width="47%" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichSsa24&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" width="38%" />
 </p>
 
