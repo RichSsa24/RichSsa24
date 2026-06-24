@@ -9,24 +9,22 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open_to_SOC_roles-22d3ee?style=flat-square&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity_•_Quantum-22d3ee?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Mood-Breaking_things_on_purpose-fbbf24?style=flat-square&labelColor=0d1117" />
 </p>
 
 <br>
 
-### Focus
+Cybersecurity engineering student in Costa Rica, one semester from the finish line. I like taking systems apart to find exactly where they break — then building the thing that catches whoever tries it next. Headed for the **SOC / blue-team** world, and lately falling hard down the **quantum computing** rabbit hole because the math is gorgeous and slightly terrifying.
 
-Final-year Cybersecurity Engineering student building tooling that watches Linux systems the way an analyst would — turning raw logs into signal, mapping behavior to MITRE ATT&CK, and catching what shouldn't be there.
-
-I'm headed toward **Security Operations (SOC / blue team)**, and I've recently been pulled toward the stranger edge of computing: quantum algorithms, optimization, and what defense looks like in a post-quantum world.
+I build a lot, lift heavy, and ship things that actually work.
 
 <br>
 
-### Selected Work
+### what i'm building
 
-**[SENTINEL-LINUX](https://github.com/RichSsa24/Sentinel_Linux)** &nbsp; <img src="https://img.shields.io/badge/active-22d3ee?style=flat-square&labelColor=0d1117" height="18" />
+**[SENTINEL-LINUX 2.0](https://github.com/RichSsa24/Sentinel_Linux2.0)** &nbsp; <img src="https://img.shields.io/badge/active-22d3ee?style=flat-square&labelColor=0d1117" height="18" />
 
-Open-source security monitoring framework for Linux. Automated threat detection, log correlation, and incident classification — with native MITRE ATT&CK technique mapping, so every alert tells you *what* an adversary was attempting, not just *that* something happened.
+My main thing. A security-monitoring framework that watches Linux boxes like a SOC analyst who never blinks — detecting threats, correlating logs, and mapping everything to MITRE ATT&CK so an alert tells you what an attacker was *actually* trying to do, not just that something happened.
 
 <p>
   <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=22d3ee&labelColor=0d1117" />
@@ -35,9 +33,9 @@ Open-source security monitoring framework for Linux. Automated threat detection,
   <img src="https://img.shields.io/badge/CIS_Controls-0d1117?style=flat-square&labelColor=0d1117" />
 </p>
 
-**Quantum Optimization Lab** &nbsp; <img src="https://img.shields.io/badge/in_progress-1f6feb?style=flat-square&labelColor=0d1117" height="18" />
+**Quantum Optimization Lab** &nbsp; <img src="https://img.shields.io/badge/nerding_out-fbbf24?style=flat-square&labelColor=0d1117" height="18" />
 
-Personal exploration into quantum computing — hands-on experiments with QAOA and QUBO/Ising formulations for real optimization problems. Backed by formal training through QWorld's Open Quantum Institute programme and selection into a CERN OQI quantum hackathon.
+Where my curiosity is currently living. Hands-on experiments with QAOA and QUBO/Ising formulations for real optimization problems — backed by QWorld's Open Quantum Institute training and a spot in a CERN OQI quantum hackathon.
 
 <p>
   <img src="https://img.shields.io/badge/Qiskit-0d1117?style=flat-square&logo=qiskit&logoColor=22d3ee&labelColor=0d1117" />
@@ -46,19 +44,19 @@ Personal exploration into quantum computing — hands-on experiments with QAOA a
   <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=22d3ee&labelColor=0d1117" />
 </p>
 
-<sub>More on the way.</sub>
+<sub>More on the way — the lab is never empty.</sub>
 
 <br>
 
-### Currently
+### currently
 
-- Studying for the **ISC2 Certified in Cybersecurity (CC)**
+- Grinding toward the **ISC2 Certified in Cybersecurity (CC)**
 - Running quantum optimization experiments with Qiskit and QAOA
-- Sharpening SOC / blue-team detection skills
+- Sharpening SOC / blue-team detection until it's muscle memory
 
 <br>
 
-### Stack
+### the stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,docker,git,github,vscode,vim&theme=dark&perline=10" />
@@ -83,7 +81,7 @@ Personal exploration into quantum computing — hands-on experiments with QAOA a
 
 <br>
 
-### Certifications
+### certifications
 
 <p>
   <img src="https://img.shields.io/badge/CCNA-Cisco_Certified_Network_Associate-22d3ee?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" />
@@ -94,8 +92,8 @@ Personal exploration into quantum computing — hands-on experiments with QAOA a
   <img src="https://img.shields.io/badge/Python-Cisco-0d1117?style=flat-square&logo=python&logoColor=22d3ee&labelColor=161b22" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/QBronze-QWorld_OQI-1f6feb?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/QCobalt-QWorld_OQI-1f6feb?style=flat-square&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/QBronze-QWorld_OQI-fbbf24?style=flat-square&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/QCobalt-QWorld_OQI-fbbf24?style=flat-square&labelColor=161b22" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/ISC2_CC-in_progress-30363d?style=flat-square&labelColor=0d1117" />
@@ -103,7 +101,18 @@ Personal exploration into quantum computing — hands-on experiments with QAOA a
 
 <br>
 
-### Stats
+### off the clock
+
+When I'm not staring at logs, you'll find me:
+
+- Under a barbell — competitive **powerlifter**, chasing heavier numbers, no days off
+- Out on my **Yamaha R3**
+- Running **Sombra Hats**, a gothic streetwear cap brand I co-founded
+- Whisky, *Suits* reruns, and late-night gaming with the crew
+
+<br>
+
+### the numbers
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=RichSsa24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" width="47%" />
@@ -113,7 +122,7 @@ Personal exploration into quantum computing — hands-on experiments with QAOA a
 
 <br>
 
-### Elsewhere
+### say hi
 
 <p>
   <a href="https://www.linkedin.com/in/ricardo-solis-arias-3a382628a/">
