@@ -1,187 +1,134 @@
-<p align="center">
-  <img src="banner.png" alt="Ricardo Solís — Cybersecurity Engineer" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=Break+it.+Understand+it.+Rebuild+it+better.;Blue+team+by+choice.+Quantum+by+curiosity.;Harden+with+confidence.+Undo+with+certainty." alt="typing" />
-</p>
+<img src="assets/hero.svg" alt="Ricardo Solís — cybersecurity engineering, detection, defense and research" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-San_José,_CR-22d3ee?style=flat-square&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open_to_SOC_roles-22d3ee?style=flat-square&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Mood-Breaking_things_on_purpose-fbbf24?style=flat-square&labelColor=0d1117" />
-</p>
+<br/>
 
-<br>
+<img src="assets/signal.gif" alt="Operational focus: detect the signal, verify the evidence, engineer the defense" width="100%" />
 
-Cybersecurity engineering student in Costa Rica, one semester from the finish line. I like taking systems apart to find exactly where they break — then building the thing that catches whoever tries it next. Headed for the **SOC / blue-team** world, and lately falling hard down the **quantum computing** rabbit hole because the math is gorgeous and slightly terrifying.
+<br/>
+<br/>
 
-I build a lot, lift heavy, and ship things that actually work.
+![Location](https://img.shields.io/badge/San_José-Costa_Rica-102333?style=flat-square&labelColor=133044&color=27566A)
+[![Focus](https://img.shields.io/badge/Focus-Detection_Engineering-102333?style=flat-square&labelColor=133044&color=27566A)](#selected-work)
+[![Opportunities](https://img.shields.io/badge/Open_to-SOC_%7C_Junior_Security_%7C_IT_Support-0D303A?style=flat-square&labelColor=133044&color=236B72)](#connect)
 
-<br>
+<a href="https://www.linkedin.com/in/ricardo-solis-arias-3a382628a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ricardo02solis@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-263B4D?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-## what i'm building
+</div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### About me
 
-### [SENTINEL-LINUX 2.0](https://github.com/RichSsa24/Sentinel_Linux2.0)
-<img src="https://img.shields.io/badge/status-active-22d3ee?style=flat-square&labelColor=0d1117" />
+I'm **José Ricardo Solís Arias**, a cybersecurity engineering student at **Universidad Fidélitas**, based in Costa Rica (expected graduation: **August 2027**). I focus on **security operations, detection engineering, and practical system defense**—from collecting host telemetry and writing detection rules to designing hardening tools with a way back when a change causes trouble.
 
-A security-monitoring framework that watches Linux boxes like a SOC analyst who never blinks — detecting threats, correlating logs, and mapping everything to **MITRE ATT&CK** so an alert tells you what an attacker was *actually* trying to do, not just that something happened.
+I also bring hands-on computer repair and technical support experience across **Windows, Linux, and macOS**, along with a foundation in networking. My goal is to join a team where I can investigate real problems, document what I find, and build defenses that can be tested rather than simply trusted.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=22d3ee&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=22d3ee&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/MITRE_ATT&CK-0d1117?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CIS_Controls-0d1117?style=flat-square&labelColor=0d1117" />
-</p>
+---
 
-</td>
-<td width="50%" valign="top">
+## Selected work
 
-### [TORTUGA](https://github.com/RichSsa24/TORTUGA)
-<img src="https://img.shields.io/badge/status-active-22d3ee?style=flat-square&labelColor=0d1117" />
+My repositories are built around a few recurring questions: **What can we observe? What can we prove? How do we make a change safely?**
 
-Reversible, leveled security hardening for **Windows, Linux, and macOS** through a bilingual CLI. Dry-run by default, preflight impact prediction before every change, and per-run rollback that restores every setting to its exact prior state. Harden with confidence, undo with certainty.
+<a href="https://github.com/RichSsa24/Sentinel_Linux2.0"><img src="assets/sentinel.svg" width="100%" alt="SENTINEL-LINUX 2.0 — Linux host intrusion detection" /></a>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=22d3ee&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Windows_%7C_Linux_%7C_macOS-0d1117?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Dry--run_first-0d1117?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Rollback-0d1117?style=flat-square&labelColor=0d1117" />
-</p>
+**A Linux host-based intrusion detection system in asynchronous Python.** Collects authentication, process, file-integrity, and network activity; normalizes events and evaluates a declarative detection library mapped to MITRE ATT&CK.
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+- **Engineering evidence:** 17 detection rules, 15 ATT&CK techniques, automated tests, and an executable intrusion replay demo.
+- **Architecture:** bounded ingestion pipeline, deduplication, persistence, authenticated FastAPI endpoints, Prometheus metrics, and Grafana dashboards.
+- **Why it matters:** detections are only useful when their coverage, failure modes, and operational behavior can be inspected.
 
-### Quantum Optimization Lab
-<img src="https://img.shields.io/badge/status-nerding_out-fbbf24?style=flat-square&labelColor=0d1117" />
+[**Explore the repository and demo →**](https://github.com/RichSsa24/Sentinel_Linux2.0) · [Detection coverage](https://github.com/RichSsa24/Sentinel_Linux2.0/blob/main/docs/COVERAGE.md) · [Threat model](https://github.com/RichSsa24/Sentinel_Linux2.0/blob/main/docs/THREAT_MODEL.md)
 
-Where my curiosity is currently living. Hands-on experiments with **QAOA** and **QUBO/Ising** formulations for real optimization problems — backed by QWorld's Open Quantum Institute training and a spot in a CERN OQI quantum hackathon.
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Qiskit-0d1117?style=flat-square&logo=qiskit&logoColor=22d3ee&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/QAOA-0d1117?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/QUBO_/_Ising-0d1117?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=22d3ee&labelColor=0d1117" />
-</p>
+<a href="https://github.com/RichSsa24/TORTUGA"><img src="assets/tortuga.svg" width="100%" alt="TORTUGA — reversible security hardening" /></a>
 
-</td>
-</tr>
-</table>
+**A bilingual, cross-platform hardening CLI for Windows, Linux, and macOS.** It separates assessment from modification so users can understand the potential impact of a security change before applying it.
 
-<p align="center"><sub>More on the way — the lab is never empty.</sub></p>
+- **Safety-first workflow:** dry-run by default; changes require explicit application.
+- **Change control:** preflight impact checks and per-run state records to support rollback.
+- **Why it matters:** hardening should improve security without treating recoverability as an afterthought.
 
-<br>
+[**Explore the repository →**](https://github.com/RichSsa24/TORTUGA) · [Spanish documentation](https://github.com/RichSsa24/TORTUGA/blob/main/docs/README.es.md)
 
-## currently
+<br/>
 
-```text
-[############........]  ISC2 Certified in Cybersecurity (CC)   -> grinding
-[##############......]  Quantum optimization w/ Qiskit + QAOA  -> experimenting
-[####################]  SOC / blue-team detection reflexes     -> muscle memory
-```
+<a href="https://github.com/RichSsa24/Cascabel"><img src="assets/cascabel.svg" width="100%" alt="CASCABEL — authorized adversary emulation and detection" /></a>
 
-- Grinding toward the **ISC2 Certified in Cybersecurity (CC)**
-- Running quantum optimization experiments with **Qiskit** and **QAOA**
-- Sharpening SOC / blue-team detection until it's muscle memory
+**An experimental purple-team platform connecting controlled emulation with detection development.** It uses signed authorization scopes, collects the resulting telemetry, and tests generated Sigma rules against observed evidence.
 
-<br>
+- **Authorization boundary:** Ed25519-signed scopes before test execution.
+- **Detection workflow:** technique emulation → telemetry → Sigma rule synthesis → verification.
+- **Why it matters:** a plausible detection rule is not the same thing as a validated one.
 
-## the stack
+[**Explore the repository →**](https://github.com/RichSsa24/Cascabel)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,docker,git,github,vscode,vim&theme=dark&perline=10" />
-</p>
+<br/>
+
+<a href="https://github.com/RichSsa24/quantum-feature-selection-nids"><img src="assets/quantum.svg" width="100%" alt="Quantum feature selection for network intrusion detection research" /></a>
+
+**Applied research at the intersection of network intrusion detection and quantum optimization.** Formulates feature selection on the NSL-KDD dataset as QUBO, solves it with QAOA in Qiskit, and compares the results with classical feature-selection baselines.
+
+- **Research focus:** reproducibility, mathematical formulation, and fair comparison against classical methods.
+- **Scope:** simulator-scale experiment; **not a claim of quantum advantage**.
+
+[**Read the experiment and results →**](https://github.com/RichSsa24/quantum-feature-selection-nids)
+
+---
+
+## Technical focus
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,docker,git,github,postgres,fastapi,prometheus,grafana,vscode&theme=dark&perline=12" alt="Python, Bash, PowerShell, Linux, Docker, Git, GitHub, PostgreSQL, FastAPI, Prometheus, Grafana and VS Code" />
+</div>
+
+| Area | Tools & methods |
+|:--|:--|
+| **Detection & analysis** | MITRE ATT&CK, log correlation, Snort, Wireshark, Nmap, host telemetry |
+| **Systems & networks** | Linux, Windows, macOS, TCP/IP, Cisco networking, Bash, PowerShell |
+| **Software & operations** | Python, FastAPI, PostgreSQL, Docker, Git, GitHub Actions, Prometheus, Grafana |
+| **Security engineering** | Threat modeling, least privilege, security testing, configuration hardening, rollback design |
+| **Research** | Qiskit, QAOA, QUBO / Ising, experimental benchmarking |
 
 <details>
-<summary><b>full toolset</b></summary>
+<summary><b>How I approach a security problem</b></summary>
 
-<br>
-
-| Layer | Tools |
-|---|---|
-| **Security** | Nmap · Nessus · Snort IDS/IPS · Burp Suite · Metasploit · OWASP ZAP |
-| **Networking** | Cisco IOS · TCP/IP · OSPF · VLANs · ACLs · VPN · NAT |
-| **Systems** | RHEL · Ubuntu · CentOS · Windows Server · Active Directory |
-| **Frameworks** | MITRE ATT&CK · NIST CSF · CIS Controls · OWASP Top 10 |
-| **Quantum** | Qiskit · QAOA · QUBO / Ising · D-Wave (dimod) |
+1. **Establish visibility:** identify what the host, network, or application can actually tell us.
+2. **Model the failure:** connect suspicious behavior to a concrete threat hypothesis or misconfiguration.
+3. **Test the control:** use reproducible scenarios, meaningful negative tests, and documented limitations.
+4. **Preserve recoverability:** make changes deliberate, traceable, and reversible whenever possible.
+5. **Write it down:** leave clear evidence and operational documentation for the next person.
 
 </details>
 
-<br>
+---
 
-## certifications
+## Education & credentials
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CCNA-Cisco_Certified_Network_Associate-22d3ee?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux_Essentials-Cisco-0d1117?style=flat-square&logo=linux&logoColor=22d3ee&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/IT_Essentials-Cisco-0d1117?style=flat-square&logo=cisco&logoColor=22d3ee&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Python-Cisco-0d1117?style=flat-square&logo=python&logoColor=22d3ee&labelColor=161b22" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/QBronze-QWorld_OQI-fbbf24?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/QCobalt-QWorld_OQI-fbbf24?style=flat-square&labelColor=161b22" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ISC2_CC-in_progress-30363d?style=flat-square&labelColor=0d1117" />
-</p>
+**B.Sc. in Cybersecurity Engineering** — Universidad Fidélitas, Costa Rica  
+*In progress · Expected August 2027*
 
-<br>
+**Cisco:** CCNA · Linux Essentials · IT Essentials · Python Essentials  
+**Quantum learning:** QWorld QBronze · QCobalt  
+**Currently preparing:** ISC2 Certified in Cybersecurity (CC)
 
-## off the clock
+---
 
-When I'm not staring at logs, you'll find me:
+## Beyond the terminal
 
-- Under a barbell — competitive **powerlifter**, chasing heavier numbers, no days off
-- Coding a new tool
+Outside of security engineering, I spend time on **powerlifting**, combat sports, and understanding new technical subjects from first principles. The same habits carry over into my work: consistency, curiosity, and testing assumptions.
 
-<br>
+---
 
-## the numbers
+## Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RichSsa24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" width="47%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichSsa24&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" width="38%" />
-</p>
+I'm interested in **SOC, junior cybersecurity, and technical support opportunities**, especially positions where investigation, systems knowledge, and engineering meet.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RichSsa24&theme=dark&hide_border=true&background=0d1117&ring=22d3ee&fire=fbbf24&currStreakLabel=22d3ee" width="47%" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ricardo-solis-arias-3a382628a/"><img src="https://img.shields.io/badge/LinkedIn-Professional_profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="mailto:ricardo02solis@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-1E3A4A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ricardo" /></a>
+  <a href="https://github.com/RichSsa24?tab=repositories"><img src="https://img.shields.io/badge/GitHub-View_all_projects-182A37?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RichSsa24/RichSsa24/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RichSsa24/RichSsa24/output/snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/RichSsa24/RichSsa24/output/snake-dark.svg" width="100%" />
-  </picture>
-</p>
-
-<br>
-
-## say hi
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ricardo-solis-arias-3a382628a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0d1117" />
-  </a>
-  <a href="mailto:ricardo02solis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=0d1117" />
-  </a>
-  <a href="https://github.com/RichSsa24">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=0d1117" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:164e63,100:22d3ee&height=100&section=footer" width="100%" />
-</p>
+<p align="center"><sub>Thanks for taking a look at my work.</sub></p>
