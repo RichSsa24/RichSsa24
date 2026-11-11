@@ -1,220 +1,317 @@
 
-<!--
-  RICARDO SOLÍS / GITHUB PROFILE
-  Editorial security portfolio · zero local image assets
-  Remote SVG endpoints: readme-typing-svg.demolab.com, shields.io, skillicons.dev
--->
-
 <div align="center">
 
-<sub>J O S É &nbsp; R I C A R D O &nbsp; S O L Í S &nbsp; A R I A S</sub>
+<img width="100%" alt="Ricardo Solís — Offensive security in progress, engineering by design" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080B10,50:151B25,100:080B10&amp;height=235&amp;section=header&amp;text=RICARDO%20SOLIS&amp;fontSize=61&amp;fontColor=F2EEE7&amp;fontAlignY=39&amp;desc=OFFENSIVE%20SECURITY%20-%20ENGINEERING%20DISCIPLINE&amp;descSize=17&amp;descAlignY=70&amp;animation=fadeIn" />
 
-<h1>Engineering security.<br>Proving it works.</h1>
+<br />
 
-<p><strong>Detection engineering &nbsp;·&nbsp; Secure systems &nbsp;·&nbsp; Applied research</strong></p>
+<sub><strong>JOSÉ RICARDO SOLÍS ARIAS</strong> &nbsp; / &nbsp; CYBERSECURITY ENGINEERING &nbsp; / &nbsp; COSTA RICA</sub>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&amp;weight=500&amp;size=16&amp;duration=3200&amp;pause=1250&amp;color=C5A572&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=38&amp;lines=Observe+the+system.+Understand+the+threat.;Build+the+detection.+Verify+the+result.;Harden+with+care.+Keep+the+rollback."
-  alt="Observe the system. Understand the threat. Build the detection. Verify the result. Harden with care. Keep the rollback."
-/>
+<h3>Think like an attacker. Build like an engineer.</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/BASED%20IN-SAN%20JOS%C3%89%2C%20CR-15191E?style=flat-square&amp;labelColor=15191E&amp;color=343B45" alt="Based in San José, Costa Rica" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-SOC%20%2F%20BLUE%20TEAM-15191E?style=flat-square&amp;labelColor=15191E&amp;color=343B45" alt="Focus: SOC and Blue Team" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20TO%20JUNIOR%20ROLES-15191E?style=flat-square&amp;labelColor=15191E&amp;color=343B45" alt="Open to junior roles" />
-</p>
+<a href="https://github.com/RichSsa24?tab=repositories">
+  <img alt="GitHub repositories" src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20THE%20WORK-B99868?style=for-the-badge&amp;labelColor=10151D&amp;logo=github&amp;logoColor=F2EEE7" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ricardo-solis-arias-3a382628a/">
+  <img alt="LinkedIn profile" src="https://img.shields.io/badge/CONNECT-LINKEDIN-B99868?style=for-the-badge&amp;labelColor=10151D&amp;logo=linkedin&amp;logoColor=F2EEE7" />
+</a>
 
-<p>
-  <a href="https://www.linkedin.com/in/ricardo-solis-arias-3a382628a/">LinkedIn</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:ricardo02solis@gmail.com">Email</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/RichSsa24?tab=repositories">Repositories</a>
-</p>
+<br /><br />
+
+<img alt="Animated statement: From understanding systems to finding weaknesses; from detection engineering to penetration testing" src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&amp;weight=500&amp;size=15&amp;duration=3500&amp;pause=1400&amp;color=B99868&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=35&amp;lines=Understand+the+system.+Question+the+assumptions.;Find+the+weakness.+Explain+the+impact.;Offensive+mindset.+Engineering+discipline." />
+
+<br />
+
+<img alt="Career direction: penetration testing" src="https://img.shields.io/badge/CAREER%20DIRECTION-PENETRATION%20TESTING-B99868?style=flat-square&amp;labelColor=171B23&amp;logoColor=white" />
+&nbsp;
+<img alt="Based in San José, Costa Rica" src="https://img.shields.io/badge/LOCATION-SAN%20JOS%C3%89%2C%20CR-707987?style=flat-square&amp;labelColor=171B23" />
+&nbsp;
+<img alt="Open to junior cybersecurity roles" src="https://img.shields.io/badge/STATUS-OPEN%20TO%20JUNIOR%20SECURITY%20ROLES-707987?style=flat-square&amp;labelColor=171B23" />
+
+<br /><br />
+
+<a href="#direction">DIRECTION</a> &nbsp; · &nbsp;
+<a href="#selected-work">SELECTED WORK</a> &nbsp; · &nbsp;
+<a href="#toolkit">TOOLKIT</a> &nbsp; · &nbsp;
+<a href="#background">BACKGROUND</a> &nbsp; · &nbsp;
+<a href="#contact">CONTACT</a>
 
 </div>
 
 ---
 
-### THE SHORT VERSION
+<sub>CHAPTER 01 / THE AMBITION</sub>
 
-I'm a cybersecurity engineering student in Costa Rica, graduating in **August 2027**. My work sits at the intersection of **Linux security monitoring, detection engineering, reversible system hardening, and adversary emulation**.
+## Direction
 
-I care about the unglamorous parts of security: threat models, observable behavior, failure modes, rollback paths, tests, and documentation someone else can actually operate. The projects below are where I put that into practice.
+<table>
+<tr>
+<td width="59%" valign="top">
 
-> **My approach:** If a security control cannot be explained, tested, and operated safely, it is not finished.
+<h3>Offensive security is the destination.<br />Systems engineering is the foundation.</h3>
+
+<p>I'm a cybersecurity engineering student at <strong>Universidad Fidélitas</strong>, building toward a career in <strong>penetration testing</strong>. I'm especially interested in how real weaknesses emerge from operating systems, networks, applications, and the assumptions between them.</p>
+
+<p>My published work is currently centered on <strong>detection engineering, hardening, and security tooling</strong>. That is the foundation I'm taking into authorized offensive-security labs—not a substitute for hands-on pentesting experience.</p>
+
+<p><strong>Target roles:</strong> Junior Penetration Tester / Security Consultant, and entry-level security positions that build toward offensive work.</p>
+
+</td>
+<td width="41%" valign="top">
+
+<p><sub>CAREER COMPASS</sub></p>
+
+<p><strong>NOW</strong><br /><code>Networking · Linux · Python</code><br /><code>Security tooling · Lab practice</code></p>
+
+<p><strong>BUILDING</strong><br /><code>Enumeration · Web testing</code><br /><code>Privilege escalation · Reporting</code></p>
+
+<p><strong>HEADING TOWARD</strong><br /><code>Penetration testing</code><br /><code>Offensive security engineering</code></p>
+
+<p><sub>Methodical lab practice · clear findings · accountable scope</sub></p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>LEARN THE SYSTEM</sub> &nbsp; → &nbsp; <sub>UNDERSTAND THE ATTACK SURFACE</sub> &nbsp; → &nbsp; <sub>TEST WITH AUTHORIZATION</sub> &nbsp; → &nbsp; <sub>REPORT THE EVIDENCE</sub>
+
+</div>
+
+<br />
+
+### The offensive track <sub> / CURRENTLY IN DEVELOPMENT</sub>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+  <sub>01 / DISCOVER</sub>
+  <h4>Enumeration</h4>
+  <p>Network discovery, service identification, attack-surface mapping.</p>
+  <img alt="Current area of study" src="https://img.shields.io/badge/CURRENT-STUDY-B99868?style=flat-square&amp;labelColor=171B23" />
+</td>
+<td width="25%" valign="top">
+  <sub>02 / TEST</sub>
+  <h4>Web &amp; systems</h4>
+  <p>Web application security, Linux fundamentals, controlled lab exploitation.</p>
+  <img alt="Current area of study" src="https://img.shields.io/badge/CURRENT-STUDY-B99868?style=flat-square&amp;labelColor=171B23" />
+</td>
+<td width="25%" valign="top">
+  <sub>03 / VALIDATE</sub>
+  <h4>Evidence</h4>
+  <p>Reproduction steps, impact assessment, defensive context.</p>
+  <img alt="Skill being developed" src="https://img.shields.io/badge/BUILDING-PRACTICE-657384?style=flat-square&amp;labelColor=171B23" />
+</td>
+<td width="25%" valign="top">
+  <sub>04 / COMMUNICATE</sub>
+  <h4>Reporting</h4>
+  <p>Clear findings, technical remediation, readable deliverables.</p>
+  <img alt="Skill being developed" src="https://img.shields.io/badge/BUILDING-PRACTICE-657384?style=flat-square&amp;labelColor=171B23" />
+</td>
+</tr>
+</table>
+
+> **Portfolio in progress:** Public, reproducible write-ups from authorized labs and my first purpose-built offensive security projects are the next additions. I won't label defensive tools as red-team work just to fill a section.
 
 ---
 
-## 01 / Selected engineering
+<sub>CHAPTER 02 / THE EVIDENCE</sub>
+
+## Selected work
+
+<sub>ENGINEERING PROOF &nbsp; • &nbsp; PUBLIC REPOSITORIES</sub>
+
+<br /><br />
 
 <table>
-  <tr>
-    <td width="22%" valign="top"><strong>01 — DETECT</strong><br><sub>FEATURED PROJECT</sub></td>
-    <td valign="top">
-      <h3><a href="https://github.com/RichSsa24/Sentinel_Linux2.0">SENTINEL-LINUX 2.0</a></h3>
-      <strong>Host-based intrusion detection for Linux.</strong>
-      <p>An asynchronous Python detection pipeline that collects SSH, process, file-integrity, and network telemetry; normalizes and deduplicates events; evaluates declarative rules mapped to MITRE ATT&amp;CK; and exposes evidence through an authenticated API and operational metrics.</p>
-      <p><code>Python</code> <code>Linux</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Prometheus</code> <code>MITRE ATT&amp;CK</code></p>
-      <p><a href="https://github.com/RichSsa24/Sentinel_Linux2.0#try-it-in-30-seconds"><strong>Run the demo →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/RichSsa24/Sentinel_Linux2.0/blob/main/docs/COVERAGE.md">Detection coverage</a> &nbsp;·&nbsp; <a href="https://github.com/RichSsa24/Sentinel_Linux2.0/blob/main/docs/THREAT_MODEL.md">Threat model</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>02 — HARDEN</strong><br><sub>ENDPOINT SECURITY</sub></td>
-    <td valign="top">
-      <h3><a href="https://github.com/RichSsa24/TORTUGA">TORTUGA</a></h3>
-      <strong>Cross-platform hardening with an exit strategy.</strong>
-      <p>A bilingual CLI for Windows, Linux, and macOS. Changes are designed around dry-run defaults, preflight impact checks, configurable hardening levels, and per-run rollback instead of irreversible "security tweaks."</p>
-      <p><code>Python</code> <code>Windows</code> <code>Linux</code> <code>macOS</code> <code>Rollback</code> <code>CLI</code></p>
-      <p><a href="https://github.com/RichSsa24/TORTUGA"><strong>Explore project →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/RichSsa24/TORTUGA/blob/main/docs/README.es.md">Documentación en español</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>03 — VALIDATE</strong><br><sub>PURPLE TEAM</sub></td>
-    <td valign="top">
-      <h3><a href="https://github.com/RichSsa24/Cascabel">CASCABEL</a></h3>
-      <strong>Authorization-first adversary emulation and detection validation.</strong>
-      <p>An experimental purple-team platform combining signed execution scopes, controlled attack-technique emulation, captured telemetry, and evidence-grounded Sigma rule generation. Built around the idea that a detection should be tested against observed behavior—not assumed to work.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Ed25519</code> <code>Sigma</code> <code>MITRE ATT&amp;CK</code></p>
-      <p><a href="https://github.com/RichSsa24/Cascabel"><strong>Explore project →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>04 — RESEARCH</strong><br><sub>QUANTUM / ML</sub></td>
-    <td valign="top">
-      <h3><a href="https://github.com/RichSsa24/quantum-feature-selection-nids">Quantum Feature Selection for NIDS</a></h3>
-      <strong>QAOA applied to intrusion-detection feature selection.</strong>
-      <p>A reproducible experiment that formulates feature selection on NSL-KDD as QUBO / Ising optimization, evaluates QAOA using Qiskit, and compares results with classical baselines. A research exercise—not a claim of quantum advantage.</p>
-      <p><code>Python</code> <code>Qiskit</code> <code>QAOA</code> <code>QUBO</code> <code>Scikit-learn</code></p>
-      <p><a href="https://github.com/RichSsa24/quantum-feature-selection-nids"><strong>Explore research →</strong></a></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<img alt="01 — Detection engineering" src="https://img.shields.io/badge/01-DETECTION%20ENGINEERING-B99868?style=for-the-badge&amp;labelColor=10151D" />
+
+<h3><a href="https://github.com/RichSsa24/Sentinel_Linux2.0">SENTINEL-LINUX 2.0</a></h3>
+
+<p><strong>See the intrusion. Understand the evidence.</strong></p>
+
+<p>A Linux host-based intrusion detection system built with asynchronous Python. It watches SSH activity, processes, file integrity, and network sockets; processes telemetry through a bounded, deduplicating pipeline; and evaluates MITRE ATT&amp;CK-mapped detection rules.</p>
+
+<p><code>Python</code> <code>Linux</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>MITRE ATT&amp;CK</code></p>
+
+<p><a href="https://github.com/RichSsa24/Sentinel_Linux2.0"><strong>VIEW REPOSITORY ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/RichSsa24/Sentinel_Linux2.0/blob/main/docs/COVERAGE.md">Coverage</a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<img alt="02 — Endpoint hardening" src="https://img.shields.io/badge/02-ENDPOINT%20HARDENING-B99868?style=for-the-badge&amp;labelColor=10151D" />
+
+<h3><a href="https://github.com/RichSsa24/TORTUGA">TORTUGA</a></h3>
+
+<p><strong>Change the system. Keep the way back.</strong></p>
+
+<p>A cross-platform hardening CLI for Windows, Linux, and macOS, designed around dry-run defaults, preflight impact checks, configurable protection levels, and rollback records for applied changes.</p>
+
+<p><code>Python</code> <code>Windows</code> <code>Linux</code> <code>macOS</code> <code>Rollback</code></p>
+
+<p><a href="https://github.com/RichSsa24/TORTUGA"><strong>VIEW REPOSITORY ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/RichSsa24/TORTUGA/blob/main/docs/README.es.md">Español</a></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img alt="03 — Security validation" src="https://img.shields.io/badge/03-SECURITY%20VALIDATION-B99868?style=for-the-badge&amp;labelColor=10151D" />
+
+<h3><a href="https://github.com/RichSsa24/Cascabel">CASCABEL</a></h3>
+
+<p><strong>Test detections against observed behavior.</strong></p>
+
+<p>An experimental purple-team engineering platform featuring authorization-first execution scopes, controlled technique emulation, captured telemetry, and evidence-grounded Sigma detection workflows. It explores validation of security controls; it is not presented as a professional red-team engagement.</p>
+
+<p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Ed25519</code> <code>Sigma</code></p>
+
+<p><a href="https://github.com/RichSsa24/Cascabel"><strong>VIEW REPOSITORY ↗</strong></a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<img alt="04 — Applied research" src="https://img.shields.io/badge/04-APPLIED%20RESEARCH-B99868?style=for-the-badge&amp;labelColor=10151D" />
+
+<h3><a href="https://github.com/RichSsa24/quantum-feature-selection-nids">QUANTUM FEATURE SELECTION</a></h3>
+
+<p><strong>Experimental optimization. Measured results.</strong></p>
+
+<p>A reproducible study of feature selection for network intrusion detection, formulated as a QUBO/Ising problem and explored with QAOA in Qiskit alongside classical baselines. The project explicitly does <em>not</em> claim quantum advantage.</p>
+
+<p><code>Qiskit</code> <code>QAOA</code> <code>QUBO</code> <code>Scikit-learn</code></p>
+
+<p><a href="https://github.com/RichSsa24/quantum-feature-selection-nids"><strong>VIEW REPOSITORY ↗</strong></a></p>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+<a href="https://github.com/RichSsa24?tab=repositories">
+  <img alt="Browse all public projects" src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-26303D?style=for-the-badge&amp;labelColor=11161E&amp;logo=github&amp;logoColor=E7DFD1" />
+</a>
+
+</div>
+
+---
+
+<sub>CHAPTER 03 / THE APPROACH</sub>
+
+## How I think
+
+<sub>ENGINEERING DISCIPLINE IS AN OFFENSIVE ADVANTAGE</sub>
+
+| Principle | What it means in practice |
+| :--- | :--- |
+| **Understand before running tools** | Know the protocol, process, trust boundary, or application behavior being tested. |
+| **Evidence over assumptions** | Record reproducible observations, not just terminal output or screenshots. |
+| **Stay inside the scope** | Work only in environments where testing is authorized and boundaries are clear. |
+| **Explain impact clearly** | Connect the technical weakness to a real security consequence and remediation. |
+| **Keep learning in public** | Turn lab practice into readable write-ups and demonstrable engineering work. |
+
+---
+
+<sub>CHAPTER 04 / THE TOOLKIT</sub>
+
+## Toolkit
+
+<div align="center">
+
+<sub>CORE ENGINEERING STACK</sub>
+
+<br /><br />
+
+<img alt="Python, Bash, PowerShell, Linux, Kali Linux, Windows, Docker, FastAPI, PostgreSQL, Git, GitHub, Wireshark" src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,windows,docker,fastapi,postgres,git,github&amp;theme=dark&amp;perline=11" />
+
+</div>
+
+<br />
+
+<table>
+<tr><td width="30%"><strong>Offensive learning</strong></td><td>Reconnaissance · Service enumeration · Web application testing · Linux privilege escalation · Pentest methodology and reporting</td></tr>
+<tr><td><strong>Hands-on fundamentals</strong></td><td>Kali Linux · Nmap · Wireshark · Virtual labs · TCP/IP · Linux command line</td></tr>
+<tr><td><strong>Security engineering</strong></td><td>Python · Host telemetry · Detection logic · MITRE ATT&amp;CK · Hardening · Threat modeling</td></tr>
+<tr><td><strong>Platforms &amp; development</strong></td><td>Windows · macOS · Linux · Git · Docker · REST APIs · PostgreSQL · Prometheus / Grafana</td></tr>
 </table>
 
 <details>
-<summary><strong>Inside the engineering: what I optimize for</strong></summary>
+<summary><strong>MORE / Networking, tooling and research</strong></summary>
 
-| Design question | How it shapes my work |
+<br />
+
+| Area | Background |
 | :--- | :--- |
-| **Can we trust the signal?** | Explicit event schemas, rule validation, positive and negative detection tests. |
-| **What happens under load?** | Bounded queues, backpressure, idempotent writes, measurable performance. |
-| **Can we undo the change?** | Dry-run defaults, impact checks, and recorded rollback state. |
-| **What can go wrong?** | Threat modeling, least privilege, unsafe input handling, documented limitations. |
-| **Can someone else run it?** | Reproducible demos, operations documentation, and clear failure behavior. |
-
-The strongest design decision is often the one that makes a system **auditable, predictable, and maintainable**.
+| Networking | CCNA studies and certification · Routing · Switching · VLANs · ACLs · Troubleshooting |
+| Defensive tooling | Snort · Security monitoring · Log analysis · MITRE ATT&amp;CK |
+| Software development | Python · Java · SQL · Bash · PowerShell |
+| Research | QAOA · QUBO / Ising · Qiskit · Reproducible experiments |
 
 </details>
 
 ---
 
-## 02 / A closer look: SENTINEL
+<sub>CHAPTER 05 / THE BACKGROUND</sub>
 
-The project most closely aligned with the work I want to do in a Security Operations Center.
-
-<table>
-  <tr>
-    <td align="center"><strong>4</strong><br><sub>TELEMETRY COLLECTORS</sub></td>
-    <td align="center"><strong>17</strong><br><sub>DETECTION RULES</sub></td>
-    <td align="center"><strong>15</strong><br><sub>ATT&amp;CK TECHNIQUES</sub></td>
-    <td align="center"><strong>910+</strong><br><sub>TESTS DOCUMENTED</sub></td>
-  </tr>
-</table>
-
-```text
-  LINUX HOST
-      │
-      ├── SSH authentication ─────┐
-      ├── Process activity ───────┤
-      ├── File integrity ─────────┤
-      └── Network sockets ────────┘
-                                  │
-                          NORMALIZE / QUEUE
-                                  │
-                            DEDUPLICATION
-                                  │
-                         ATT&CK-MAPPED RULES
-                                  │
-                      ALERTS / STORAGE / API
-                                  │
-                        METRICS & OPERATIONS
-```
-
-A working security tool should come with evidence. SENTINEL's repository documents an executable intrusion demo, a detection coverage matrix, security design decisions, benchmarks, and automated quality gates. The numbers above reflect the repository documentation rather than live production measurements.
-
-[**Inspect the architecture and implementation →**](https://github.com/RichSsa24/Sentinel_Linux2.0)
-
----
-
-## 03 / Technical foundation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,windows,docker,fastapi,postgres,git,github,grafana,prometheus&amp;theme=dark&amp;perline=13" alt="Python, Bash, PowerShell, Linux, Kali, Windows, Docker, FastAPI, PostgreSQL, Git, GitHub, Grafana, Prometheus" />
-</p>
-
-| Domain | Tools and concepts |
-| :--- | :--- |
-| **Detection & security operations** | Host telemetry · Log analysis · MITRE ATT&amp;CK · Snort · Wireshark · Nmap |
-| **Engineering** | Python · Bash · PowerShell · FastAPI · REST APIs · Git · CI workflows · Automated tests |
-| **Systems & infrastructure** | Linux · Windows · macOS · Docker · PostgreSQL · Prometheus · Grafana |
-| **Networking** | TCP/IP · Routing & switching · VLANs · ACLs · Network troubleshooting |
-| **Security methodology** | Threat modeling · Least privilege · Hardening · Incident investigation fundamentals · NIST CSF · CIS Controls |
-| **Research** | Qiskit · QAOA · QUBO / Ising models · Reproducible experiments |
-
-My strongest practical focus is **Linux-based detection tooling and Python security engineering**. I also have hands-on experience troubleshooting and repairing computers across Windows, macOS, and Linux.
-
----
-
-## 04 / Background & credentials
+## Background
 
 <table>
-  <tr>
-    <td width="25%"><strong>EDUCATION</strong></td>
-    <td><strong>B.Eng. in Cybersecurity</strong><br>Universidad Fidélitas · Costa Rica<br><sub>Expected completion: August 2027</sub></td>
-  </tr>
-  <tr>
-    <td><strong>EXPERIENCE</strong></td>
-    <td>Hands-on computer repair and cross-platform technical support (since 2025). Previous bilingual customer service experience (2024).</td>
-  </tr>
-  <tr>
-    <td><strong>CREDENTIALS</strong></td>
-    <td>Cisco CCNA · Linux Essentials · IT Essentials · Python Essentials</td>
-  </tr>
-  <tr>
-    <td><strong>IN PROGRESS</strong></td>
-    <td>ISC2 Certified in Cybersecurity (CC)</td>
-  </tr>
+<tr>
+<td width="27%"><sub>ACADEMIC</sub><br /><strong>UNIVERSIDAD FIDÉLITAS</strong></td>
+<td>Bachelor's degree in Cybersecurity Engineering<br /><sub>San José, Costa Rica · Expected August 2027</sub></td>
+</tr>
+<tr>
+<td><sub>INDUSTRY FOUNDATION</sub><br /><strong>TECHNICAL SUPPORT</strong></td>
+<td>Hands-on computer repair and support across Windows, macOS and Linux since 2025; prior bilingual customer-service experience.</td>
+</tr>
+<tr>
+<td><sub>CREDENTIALS</sub><br /><strong>CISCO &amp; ESSENTIALS</strong></td>
+<td>CCNA · Linux Essentials · IT Essentials · Python Essentials</td>
+</tr>
+<tr>
+<td><sub>UP NEXT</sub><br /><strong>ISC2 CC</strong></td>
+<td>Preparing for Certified in Cybersecurity (CC) — not yet certified.</td>
+</tr>
 </table>
 
-I am targeting **SOC Analyst I, Junior Security Analyst, and IT Support** opportunities where I can contribute from day one while developing deeper incident-response and detection-engineering skills.
+<br />
+
+> Outside the terminal: powerlifting, combat sports, motorcycles, and the occasional deep dive into computer science or philosophy.
 
 ---
 
-## 05 / Beyond the terminal
+<sub>CHAPTER 06 / THE CONVERSATION</sub>
 
-Outside security engineering, I'm usually training **powerlifting and combat sports**, reading, or experimenting with a new systems concept. The same habits carry over: learn the fundamentals, measure progress, and respect the details.
-
----
+## Contact
 
 <div align="center">
 
-<sub>HAVE A SYSTEM TO SECURE, A DETECTION TO BUILD, OR A PROBLEM WORTH EXPLORING?</sub>
+<h2>Good security starts with better questions.</h2>
 
-<h2>Let's work on something that holds up under scrutiny.</h2>
+<p>Interested in penetration testing, security engineering, and thoughtful technical work.</p>
 
-<p>
-  <a href="https://www.linkedin.com/in/ricardo-solis-arias-3a382628a/">
-    <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-806038?style=for-the-badge&amp;labelColor=15191E&amp;logo=linkedin&amp;logoColor=C5A572" alt="Connect on LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:ricardo02solis@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-EMAIL-806038?style=for-the-badge&amp;labelColor=15191E&amp;logo=gmail&amp;logoColor=C5A572" alt="Contact by email" />
-  </a>
-</p>
+<a href="mailto:ricardo02solis@gmail.com">
+  <img alt="Email Ricardo" src="https://img.shields.io/badge/START%20A%20CONVERSATION-EMAIL-B99868?style=for-the-badge&amp;labelColor=11161E&amp;logo=gmail&amp;logoColor=F2EEE7" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ricardo-solis-arias-3a382628a/">
+  <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/FIND%20ME-LINKEDIN-26303D?style=for-the-badge&amp;labelColor=11161E&amp;logo=linkedin&amp;logoColor=F2EEE7" />
+</a>
 
-<sub>DESIGNED WITH RESTRAINT. BUILT AROUND EVIDENCE.</sub>
+<br /><br />
+
+<sub>RICARDO SOLÍS &nbsp; · &nbsp; ENGINEERING WITH EVIDENCE &nbsp; · &nbsp; OFFENSIVE MINDSET</sub>
+
+<br /><br />
+
+<img width="100%" alt="Decorative footer in charcoal and champagne gold" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080B10,50:B99868,100:080B10&amp;height=7&amp;section=footer" />
 
 </div>
-
